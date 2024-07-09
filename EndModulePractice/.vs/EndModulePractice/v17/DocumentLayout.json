@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\services\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\services\\istudentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\repositories\\collectioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\student\\updatestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\student\\addstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|d:\\pg-dac\\me.net\\me.net practice\\endmodulepractice\\studentwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6487376A-8C82-46B2-9C93-57D9F5B71C69}|StudentWebApplication\\StudentWebApplication.csproj|solutionrelative:studentwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CollectionContext.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\CollectionContext.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Repositories\\CollectionContext.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\CollectionContext.cs",
+              "RelativeToolTip": "StudentWebApplication\\Repositories\\CollectionContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:32:56.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentWebApplication\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:27:56.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentWebApplication\\Repositories\\StudentRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:34:38.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Services\\StudentServices.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Services\\StudentServices.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Services\\StudentServices.cs",
+              "RelativeToolTip": "StudentWebApplication\\Services\\StudentServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:51:11.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentServices.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Services\\IStudentServices.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Services\\IStudentServices.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Services\\IStudentServices.cs",
+              "RelativeToolTip": "StudentWebApplication\\Services\\IStudentServices.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:49:49.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentWebApplication\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwEMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:53:14.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Models\\Student.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Models\\Student.cs",
+              "RelativeToolTip": "StudentWebApplication\\Models\\Student.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:25:42.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "getById.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\getById.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Student\\getById.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\getById.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Student\\getById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T12:08:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "deleteStudent.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\deleteStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Student\\deleteStudent.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\deleteStudent.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Student\\deleteStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:57:58.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "updateStudent.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\updateStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Student\\updateStudent.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\updateStudent.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Student\\updateStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:38:52.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "addStudent.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\addStudent.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Student\\addStudent.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\addStudent.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Student\\addStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:47:51.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:19:46.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T10:24:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentWebApplication\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T11:24:49.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StudentWebApplication\\Program.cs",
+              "ToolTip": "D:\\PG-DAC\\ME.NET\\ME.Net Practice\\EndModulePractice\\StudentWebApplication\\Program.cs",
+              "RelativeToolTip": "StudentWebApplication\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:20:54.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
